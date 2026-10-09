@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 🚀 My Projects
 
-- **My First Project** —https://github.com/janhavi-87/Code-and-commit-day-2
+- **My First Project** https://github.com/janhavi-87/Student-grade-system.py/blob/master/student.py
 
 ## 📫 Connect With Me
 
